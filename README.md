@@ -3,6 +3,8 @@
 ### 📝Introdução
 Este documento descreve um notebook Jupyter contendo código Python para realizar consultas a APIs web, manipular dados, e armazenar informações em um banco de dados SQLite. O código consiste em várias funções organizadas em seções, incluindo a criação de ambiente virtual, manipulação de banco de dados, extração de dados de APIs, transformação desses dados e a execução principal (`main`), bem como uma seção de carregamento (LOAD) para visualizar e verificar os dados no banco de dados SQLite.
 
+Este código permite descobrir a situação do clima na localidade onde está situada determinada empresa a partir do seu CNPJ. 
+
 ## Ambiente Virtual
 Para executar este código, é necessário criar um ambiente virtual Python. As bibliotecas necessárias estão listadas na seção de ambiente virtual, incluindo `virtualenv` e `virtualenvwrapper-win`.
 
