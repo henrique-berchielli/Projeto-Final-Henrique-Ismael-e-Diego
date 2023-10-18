@@ -1,6 +1,6 @@
 # Projeto-Final-Henrique-Ismael-e-Diego
 
-###📝Introdução
+### 📝Introdução
 Este documento descreve um notebook Jupyter contendo código Python para realizar consultas a APIs web, manipular dados, e armazenar informações em um banco de dados SQLite. O código consiste em várias funções organizadas em seções, incluindo a criação de ambiente virtual, manipulação de banco de dados, extração de dados de APIs, transformação desses dados e a execução principal (`main`), bem como uma seção de carregamento (LOAD) para visualizar e verificar os dados no banco de dados SQLite.
 
 ## Ambiente Virtual
