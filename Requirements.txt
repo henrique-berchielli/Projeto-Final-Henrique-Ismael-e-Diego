@@ -1,0 +1,17 @@
+Instalar as Bibliotecas para a execução do arquivo
+
+Para executar o nosso arquivo, você precisará das seguintes bibliotecas, com as versões mais recentes disponíveis:
+
+pandas: Uma biblioteca essencial para a manipulação e análise de dados. Instale-a com o seguinte comando:
+
+pip install pandas
+requests: Utilizada para fazer solicitações HTTP. Para instalar, execute o comando:
+
+pip install requests
+plyer: Uma biblioteca para notificações. Instale-a com o seguinte comando:
+
+
+pip install plyer
+Certifique-se de que o pip esteja configurado corretamente em seu ambiente Python. Com essas bibliotecas instaladas, seu arquivo deverá rodar sem problemas.
+
+Lembre-se de que é sempre uma boa prática verificar as versões mais recentes disponíveis no momento da instalação, para garantir que você esteja usando as versões mais atualizadas e compatíveis com seu código.
